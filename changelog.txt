@@ -1,0 +1,17 @@
+
+
+0.1.2
+
+* 7-Zip Parameter geändert von Hinzufügen zu Ergänzen (add to update)
+
+0.1.1
+
+* Hinzufügen von Emailprotokoll des Zipping
+
+0.1.0
+
+* Aufnahme aller Variablen in die exec-Commands
+
+0.0.2
+
+* Initialisierung in ahxSCO

@@ -1,0 +1,14 @@
+# cat=Backup//01; type=string; label=MySQL: Pfad zu mysqldump
+mysqlDumpPath = 
+
+# cat=Backup//02; type=options[7-zip]; label=Zipper: Welches Zipprogramm wird eingesetzt
+zipperType =
+
+# cat=Backup//03; type=string; label=Zipper: Pfad zum ausführbaren Zip-Programm
+zipperPath =
+
+# cat=Backup//03; type=string; label=Backup Dir: Pfad in dem die Sicherungen gespeichert werden
+backupDir =
+
+# cat=Extension Logging//01; type=options[0,1,2,3,4,5,6,7]; label=Debug: Ab welchem Schweregrad sollen Debugmessages für diese Erweiterung geschrieben werden? [0 = EMERGENCY, 1 = ALERT, 2 = CRITICAL, 3 = ERROR, 4 = WARNING, 5 = NOTICE, 6 = INFO, 7 = DEBUG]
+extLog = 
